@@ -2,7 +2,7 @@
 - 👀 I’m interested in Aprender
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate em Estudar
-- ⚡ Fun fact: Aprender coisas novas
+- ⚡ Fun fact: Gosto de aprender coisas novas
 
 <!---
 JuanFellipedaSilva/JuanFellipedaSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
